@@ -8,5 +8,7 @@
  
  Everything is written in JS, but also can be written in Python, C, java and so on.
  
+ Time limit : 20 - 25 mins
+ 
  ### codepad link for Naturetrak techincal interview
  https://codepad.remoteinterview.io/NNWCQGUUWW
