@@ -1,4 +1,4 @@
-# JS_Interview_Challenge
+# Technical_Interview_Challenge
 
 ### Ignore index.js and execute js 
 ### These are easy techincal interview questions
